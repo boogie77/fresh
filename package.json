@@ -4,7 +4,7 @@
   "description": "Starter bundled with bulma.io",
   "main": "Gruntfile.js",
   "devDependencies": {
-    "autoprefixer": "^6.3.6",
+    "autoprefixer": "^9.8.6",
     "browser-sync": "^2.18.13",
     "gulp": "^3.9.1",
     "gulp-clean": "^0.3.2",
